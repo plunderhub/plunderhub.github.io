@@ -1,0 +1,41 @@
+logo image link - http://i.imgur.com/mrcBtQ6.png
+
+nav bar code - <style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a class="active" href="walk_the_plank_main.html">Home</a></li>
+  <li><a href="walk_the_plank_movies.html">Movies</a></li>
+  <li><a href="walk_the_plank_tvshows.html">TV Shows</a></li>
+</ul>
+
+
+
+iframe positioning - style="position:relative; bottom:-20px;"
+
+beige colour code - #c2b280
